@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const exchangeController_1 = require("../controllers/exchangeController");
+const authMiddleware_1 = require("../middleware/authMiddleware");
+const router = (0, express_1.Router)();
+router.use(authMiddleware_1.requireAuth);
+router.get('/', exchangeController_1.getExchanges);
+router.put('/:id/complete', exchangeController_1.completeExchange);
+exports.default = router;

@@ -1,0 +1,119 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./skillswap.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id              String               @id @default(uuid())
+  name            String
+  email           String               @unique
+  passwordHash    String
+  college         String
+  department      String
+  year            String
+  bio             String               @default("")
+  avatar          String               @default("")
+  availability    String               @default("Flexible")
+  learningMode    String               @default("Hybrid")
+  createdAt       DateTime             @default(now())
+
+  offeredSkills   UserOfferedSkill[]
+  requiredSkills  UserRequiredSkill[]
+  sentRequests    ExchangeRequest[]    @relation("SentRequests")
+  receivedRequests ExchangeRequest[]   @relation("ReceivedRequests")
+  reviewsGiven    Review[]             @relation("ReviewsGiven")
+  reviewsReceived Review[]             @relation("ReviewsReceived")
+  notifications   Notification[]
+}
+
+model Skill {
+  id              String               @id @default(uuid())
+  name            String               @unique
+  category        String               @default("General")
+
+  offeredBy       UserOfferedSkill[]
+  requiredBy      UserRequiredSkill[]
+}
+
+model UserOfferedSkill {
+  id        String   @id @default(uuid())
+  userId    String
+  skillId   String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  skill     Skill    @relation(fields: [skillId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, skillId])
+}
+
+model UserRequiredSkill {
+  id        String   @id @default(uuid())
+  userId    String
+  skillId   String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  skill     Skill    @relation(fields: [skillId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, skillId])
+}
+
+model ExchangeRequest {
+  id                String       @id @default(uuid())
+  senderId          String
+  receiverId        String
+  offeredSkillName  String
+  requiredSkillName String
+  message           String       @default("")
+  status            String       @default("PENDING") // PENDING, ACCEPTED, REJECTED, COMPLETED
+  createdAt         DateTime     @default(now())
+  updatedAt         DateTime     @updatedAt
+
+  sender            User         @relation("SentRequests", fields: [senderId], references: [id], onDelete: Cascade)
+  receiver          User         @relation("ReceivedRequests", fields: [receiverId], references: [id], onDelete: Cascade)
+  exchange          Exchange?
+}
+
+model Exchange {
+  id                String          @id @default(uuid())
+  requestId         String          @unique
+  senderId          String
+  receiverId        String
+  offeredSkillName  String
+  requiredSkillName String
+  status            String          @default("ACTIVE") // ACTIVE, COMPLETED
+  startedAt         DateTime        @default(now())
+  completedAt       DateTime?
+
+  request           ExchangeRequest @relation(fields: [requestId], references: [id], onDelete: Cascade)
+  reviews           Review[]
+}
+
+model Review {
+  id          String    @id @default(uuid())
+  exchangeId  String
+  reviewerId  String
+  revieweeId  String
+  rating      Int       // 1 - 5
+  feedback    String
+  createdAt   DateTime  @default(now())
+
+  exchange    Exchange  @relation(fields: [exchangeId], references: [id], onDelete: Cascade)
+  reviewer    User      @relation("ReviewsGiven", fields: [reviewerId], references: [id], onDelete: Cascade)
+  reviewee    User      @relation("ReviewsReceived", fields: [revieweeId], references: [id], onDelete: Cascade)
+
+  @@unique([exchangeId, reviewerId])
+}
+
+model Notification {
+  id        String   @id @default(uuid())
+  userId    String
+  message   String
+  type      String   // REQUEST_RECEIVED, REQUEST_ACCEPTED, REQUEST_REJECTED, EXCHANGE_COMPLETED, REVIEW_RECEIVED
+  isRead    Boolean  @default(false)
+  link      String   @default("")
+  createdAt DateTime @default(now())
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}

@@ -1,0 +1,1235 @@
+{
+  "users": [
+    {
+      "name": "Afic",
+      "email": "arun@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "Indian Institute of Technology",
+      "department": "Computer Science & Engineering",
+      "year": "2nd Year",
+      "bio": "Passionate programmer who loves writing Python scripts, backend algorithms, and SQL queries. Looking to level up my front-end and design skills to build better user interfaces!",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "Hybrid",
+      "id": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "createdAt": "2026-09-25T06:23:47.124Z"
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "National Institute of Design",
+      "department": "Interaction & UI/UX Design",
+      "year": "3rd Year",
+      "bio": "UI/UX enthusiast obsessed with clean typography, Figma design systems, and delightful user experiences. Eager to master Python for data visualization and creative scripting!",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "Hybrid",
+      "id": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "createdAt": "2026-09-25T06:23:47.135Z"
+    },
+    {
+      "name": "Rahul Verma",
+      "email": "rahul@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "KSR College of Technology",
+      "department": "Information Technology",
+      "year": "4th Year",
+      "bio": "Enterprise backend developer building robust microservices with Java and Spring Boot. Wanting to learn React and modern frontend frameworks.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "availability": "Evenings",
+      "learningMode": "Online",
+      "id": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "createdAt": "2026-09-25T06:23:47.145Z"
+    },
+    {
+      "name": "Sneha Patel",
+      "email": "sneha@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "Anna University",
+      "department": "Computer Science",
+      "year": "2nd Year",
+      "bio": "Frontend enthusiast crafting interactive web apps with React and modern CSS. Keen to understand backend development with Java and object-oriented architectures.",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+      "availability": "Evenings",
+      "learningMode": "Online",
+      "id": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "createdAt": "2026-09-25T06:23:47.154Z"
+    },
+    {
+      "name": "Karthik Raja",
+      "email": "karthik@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "Loyola College",
+      "department": "Visual Communication",
+      "year": "3rd Year",
+      "bio": "Videographer and story-teller editing cinematic YouTube content and color grades. Wanting to improve my branding and vector graphic design skills.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "availability": "Flexible",
+      "learningMode": "Hybrid",
+      "id": "5804d83e-4c17-4ccc-bb42-76a5edf31746",
+      "createdAt": "2026-09-25T06:23:47.160Z"
+    },
+    {
+      "name": "Ananya Roy",
+      "email": "ananya@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "College of Fine Arts",
+      "department": "Digital Multimedia & Arts",
+      "year": "4th Year",
+      "bio": "Brand identity designer, vector illustrator, and 3D hobbyist. Looking for a peer to teach me video post-production and motion graphics.",
+      "avatar": "https://images.unsplash.com/photo-1534751516642-a171ed292022?auto=format&fit=crop&w=400&q=80",
+      "availability": "Flexible",
+      "learningMode": "Hybrid",
+      "id": "7f59ac06-e656-43d0-8277-39c1b561fb42",
+      "createdAt": "2026-09-25T06:23:47.168Z"
+    },
+    {
+      "name": "Vikram Menon",
+      "email": "vikram@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "PSG College of Technology",
+      "department": "Electrical & Electronics",
+      "year": "2nd Year",
+      "bio": "Math lover and circuit hobbyist. Happy to help peers with linear algebra, calculus, and MATLAB in exchange for practical Python and ML tutoring.",
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "In-Person",
+      "id": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "createdAt": "2026-09-25T06:23:47.173Z"
+    },
+    {
+      "name": "Divya Sundaram",
+      "email": "divya@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "Vellore Institute of Technology",
+      "department": "Data Science",
+      "year": "3rd Year",
+      "bio": "Data nerd working with scikit-learn, deep learning models, and big data. Need help refining my public speaking and presentation pitching skills.",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "availability": "Flexible",
+      "learningMode": "Online",
+      "id": "65272aae-97ff-4446-8d0a-3e887fd4a344",
+      "createdAt": "2026-09-25T06:23:47.177Z"
+    },
+    {
+      "name": "Rohan Mehta",
+      "email": "rohan@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "Department of Management Studies",
+      "department": "Business & Entrepreneurship",
+      "year": "2nd Year",
+      "bio": "Student startup founder, debater, and public speaker. Looking to learn modern web development so I can prototype my venture ideas directly.",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekdays",
+      "learningMode": "Hybrid",
+      "id": "6add3425-169a-487e-9201-c1360ef318b2",
+      "createdAt": "2026-09-25T06:23:47.186Z"
+    },
+    {
+      "name": "Meera Nair",
+      "email": "meera@skillswap.edu",
+      "passwordHash": "$2a$10$0Eu8YsVrwtrG0aeX6g9AOu08ZqeoAsLqjRPfxkEpzr/TccP1arMm2",
+      "college": "Government College of Technology",
+      "department": "Computer Science",
+      "year": "1st Year",
+      "bio": "First year engineering student with strong foundations in C and discrete math. Excited to learn modern web development and JavaScript from seniors!",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "Online",
+      "id": "45abac1a-c35e-4249-9244-7722e3e3845d",
+      "createdAt": "2026-09-25T06:23:47.199Z"
+    },
+    {
+      "name": "Kavitha Raj",
+      "email": "kavitha@skillswap.edu",
+      "passwordHash": "$2a$10$hHzP6uPjJPxaIGU21CkTcuoC9lYz2VSnEyXKVbif/JsfYg3KjvYXW",
+      "college": "PSG Tech",
+      "department": "Biomedical Engineering",
+      "year": "2nd Year",
+      "bio": "Hello! I am a 2nd Year student studying Biomedical Engineering at PSG Tech. Excited to swap skills!",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Kavitha%20Raj",
+      "availability": "Weekends",
+      "learningMode": "Hybrid",
+      "id": "0a09f6d8-5b20-42ae-99f5-fadd26c10a8b",
+      "createdAt": "2026-09-25T07:01:21.957Z"
+    },
+    {
+      "name": "Arun Kumar",
+      "email": "arun@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "Indian Institute of Technology",
+      "department": "Computer Science & Engineering",
+      "year": "3rd Year",
+      "bio": "Passionate programmer who loves writing Python scripts, backend algorithms, and SQL queries. Looking to level up my front-end and design skills to build better user interfaces!",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "Hybrid",
+      "id": "33ab2882-7be1-4934-b771-4fbbd89fbb01",
+      "createdAt": "2026-09-25T08:11:59.835Z"
+    },
+    {
+      "name": "Priya Sharma",
+      "email": "priya@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "National Institute of Design",
+      "department": "Interaction & UI/UX Design",
+      "year": "3rd Year",
+      "bio": "UI/UX enthusiast obsessed with clean typography, Figma design systems, and delightful user experiences. Eager to master Python for data visualization and creative scripting!",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "Hybrid",
+      "id": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "createdAt": "2026-09-25T08:11:59.843Z"
+    },
+    {
+      "name": "Rahul Verma",
+      "email": "rahul@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "KSR College of Technology",
+      "department": "Information Technology",
+      "year": "4th Year",
+      "bio": "Enterprise backend developer building robust microservices with Java and Spring Boot. Wanting to learn React and modern frontend frameworks.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "availability": "Evenings",
+      "learningMode": "Online",
+      "id": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "createdAt": "2026-09-25T08:11:59.847Z"
+    },
+    {
+      "name": "Sneha Patel",
+      "email": "sneha@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "Anna University",
+      "department": "Computer Science",
+      "year": "2nd Year",
+      "bio": "Frontend enthusiast crafting interactive web apps with React and modern CSS. Keen to understand backend development with Java and object-oriented architectures.",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+      "availability": "Evenings",
+      "learningMode": "Online",
+      "id": "aed090bc-e970-48aa-94e1-24611e696227",
+      "createdAt": "2026-09-25T08:11:59.853Z"
+    },
+    {
+      "name": "Karthik Raja",
+      "email": "karthik@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "Loyola College",
+      "department": "Visual Communication",
+      "year": "3rd Year",
+      "bio": "Videographer and story-teller editing cinematic YouTube content and color grades. Wanting to improve my branding and vector graphic design skills.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "availability": "Flexible",
+      "learningMode": "Hybrid",
+      "id": "19c887e2-1475-4215-9c74-0d869688acf7",
+      "createdAt": "2026-09-25T08:11:59.859Z"
+    },
+    {
+      "name": "Ananya Roy",
+      "email": "ananya@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "College of Fine Arts",
+      "department": "Digital Multimedia & Arts",
+      "year": "4th Year",
+      "bio": "Brand identity designer, vector illustrator, and 3D hobbyist. Looking for a peer to teach me video post-production and motion graphics.",
+      "avatar": "https://images.unsplash.com/photo-1534751516642-a171ed292022?auto=format&fit=crop&w=400&q=80",
+      "availability": "Flexible",
+      "learningMode": "Hybrid",
+      "id": "c822e360-9bf4-4eeb-9177-4702a5ed69a4",
+      "createdAt": "2026-09-25T08:11:59.864Z"
+    },
+    {
+      "name": "Vikram Menon",
+      "email": "vikram@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "PSG College of Technology",
+      "department": "Electrical & Electronics",
+      "year": "2nd Year",
+      "bio": "Math lover and circuit hobbyist. Happy to help peers with linear algebra, calculus, and MATLAB in exchange for practical Python and ML tutoring.",
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "In-Person",
+      "id": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "createdAt": "2026-09-25T08:11:59.868Z"
+    },
+    {
+      "name": "Divya Sundaram",
+      "email": "divya@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "Vellore Institute of Technology",
+      "department": "Data Science",
+      "year": "3rd Year",
+      "bio": "Data nerd working with scikit-learn, deep learning models, and big data. Need help refining my public speaking and presentation pitching skills.",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "availability": "Flexible",
+      "learningMode": "Online",
+      "id": "53d5adb4-051a-4489-b17e-a8098ef9e17d",
+      "createdAt": "2026-09-25T08:11:59.874Z"
+    },
+    {
+      "name": "Rohan Mehta",
+      "email": "rohan@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "Department of Management Studies",
+      "department": "Business & Entrepreneurship",
+      "year": "2nd Year",
+      "bio": "Student startup founder, debater, and public speaker. Looking to learn modern web development so I can prototype my venture ideas directly.",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekdays",
+      "learningMode": "Hybrid",
+      "id": "e702f4d5-e72d-4522-a13c-d3002e5c1027",
+      "createdAt": "2026-09-25T08:11:59.880Z"
+    },
+    {
+      "name": "Meera Nair",
+      "email": "meera@skillswap.edu",
+      "passwordHash": "$2a$10$zSPxNvZa3S2NzflnUEEfrecVF7pbCg3vEr8/InpvLv22.yE1g2iq.",
+      "college": "Government College of Technology",
+      "department": "Computer Science",
+      "year": "1st Year",
+      "bio": "First year engineering student with strong foundations in C and discrete math. Excited to learn modern web development and JavaScript from seniors!",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80",
+      "availability": "Weekends",
+      "learningMode": "Online",
+      "id": "9a8697ff-149c-4454-9f65-0f8cc9d8b082",
+      "createdAt": "2026-09-25T08:11:59.884Z"
+    },
+    {
+      "name": "AFIC",
+      "email": "aficm4513@gmail.com",
+      "passwordHash": "$2a$10$xhPKXbYpQDMXRjSky9kix.qttvv85Gr.Dd8Wq3mKto4T9pfh4j1/y",
+      "college": "Mahendra Engineering college ",
+      "department": "Computer Science And Engineering",
+      "year": "2nd Year",
+      "bio": "I am quick learner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=AFIC",
+      "availability": "Weekends",
+      "learningMode": "Hybrid",
+      "id": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "createdAt": "2026-09-25T08:18:15.548Z"
+    }
+  ],
+  "skills": [
+    {
+      "id": "daeacf87-5e21-4225-9e82-4ab5d0693f52",
+      "name": "Python",
+      "category": "Programming"
+    },
+    {
+      "id": "23d28ebc-dd48-4789-8344-84bf7e645d85",
+      "name": "Java",
+      "category": "Programming"
+    },
+    {
+      "id": "3180f3e3-ffd4-474f-8aa4-55f57696ebd4",
+      "name": "C",
+      "category": "Programming"
+    },
+    {
+      "id": "476204c0-236a-4fcd-8c73-126db81a7618",
+      "name": "C++",
+      "category": "Programming"
+    },
+    {
+      "id": "e6d056fc-e112-46fe-bd2d-f53efd9d18cd",
+      "name": "JavaScript",
+      "category": "Programming"
+    },
+    {
+      "id": "031a56f4-4fb5-40ea-a94a-7e9ce1ccca7d",
+      "name": "TypeScript",
+      "category": "Programming"
+    },
+    {
+      "id": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f",
+      "name": "React",
+      "category": "Web Development"
+    },
+    {
+      "id": "5773dd8b-03ff-4ad3-a437-f1bb68d3898b",
+      "name": "HTML/CSS",
+      "category": "Web Development"
+    },
+    {
+      "id": "609647ff-dab4-44ff-ae6f-bf8670a981dd",
+      "name": "Spring Boot",
+      "category": "Backend"
+    },
+    {
+      "id": "02b04264-f4f1-4451-810c-fc3f8e3013de",
+      "name": "SQL",
+      "category": "Database"
+    },
+    {
+      "id": "07e000fc-0f3b-4845-9a94-a9c50daa3105",
+      "name": "PostgreSQL",
+      "category": "Database"
+    },
+    {
+      "id": "ee0e54b4-d68c-41be-9cc5-edf4819b8159",
+      "name": "UI/UX Design",
+      "category": "Design"
+    },
+    {
+      "id": "722706e3-a7b6-406d-b670-2405c06eafd4",
+      "name": "Figma",
+      "category": "Design"
+    },
+    {
+      "id": "11001fa7-2f27-4596-902a-414132fd6adf",
+      "name": "Photoshop",
+      "category": "Design"
+    },
+    {
+      "id": "25868b12-8f05-4105-9b82-b193d6e22e6e",
+      "name": "Graphic Design",
+      "category": "Design"
+    },
+    {
+      "id": "48a1addb-77e5-4514-97b0-9d9205f62943",
+      "name": "Illustrator",
+      "category": "Design"
+    },
+    {
+      "id": "ead48dd3-2a49-4854-a433-883be02c0de7",
+      "name": "Blender",
+      "category": "3D & Animation"
+    },
+    {
+      "id": "612c5a68-9bf6-4a81-b496-f2ec03788c82",
+      "name": "Video Editing",
+      "category": "Multimedia"
+    },
+    {
+      "id": "a5c17d2e-cd98-486e-9e94-341c74fc122f",
+      "name": "Premiere Pro",
+      "category": "Multimedia"
+    },
+    {
+      "id": "150e20f5-dac2-4f41-a505-ac94218cda4e",
+      "name": "Photography",
+      "category": "Multimedia"
+    },
+    {
+      "id": "97f626ec-2ef1-46b9-a773-1954ed9e14cb",
+      "name": "Public Speaking",
+      "category": "Soft Skills"
+    },
+    {
+      "id": "f89b3135-66ec-4c7b-bc1b-5cdab46e8594",
+      "name": "Business Strategy",
+      "category": "Business"
+    },
+    {
+      "id": "17c4576f-dc98-416b-8fd8-38acdf9c0d9d",
+      "name": "Pitching",
+      "category": "Soft Skills"
+    },
+    {
+      "id": "56bc9fa3-31f0-4e81-840f-7e786a943914",
+      "name": "Mathematics",
+      "category": "Academics"
+    },
+    {
+      "id": "5f5bd403-bc04-48cd-877f-528ee16fa673",
+      "name": "MATLAB",
+      "category": "Engineering"
+    },
+    {
+      "id": "8c673d71-5c4e-413d-8c69-3d212e61cebc",
+      "name": "Algorithms",
+      "category": "Computer Science"
+    },
+    {
+      "id": "73bf32b3-6a0a-43d7-b61f-40c18606f51e",
+      "name": "Data Science",
+      "category": "AI & Data"
+    },
+    {
+      "id": "6e67ef3b-01e0-4742-bc02-44ee47b85353",
+      "name": "Machine Learning",
+      "category": "AI & Data"
+    }
+  ],
+  "userOfferedSkills": [
+    {
+      "id": "acb89aac-5626-401e-8a4a-0d5f49d6fd97",
+      "userId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "0cfb7f77-4dd8-498f-bdd1-a0b5d0397210",
+      "userId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "skillId": "02b04264-f4f1-4451-810c-fc3f8e3013de"
+    },
+    {
+      "id": "2274340c-6ef6-4994-92ea-c944b7a94afd",
+      "userId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "skillId": "476204c0-236a-4fcd-8c73-126db81a7618"
+    },
+    {
+      "id": "098a84c2-48cd-47e4-b331-bef9650348b9",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "skillId": "ee0e54b4-d68c-41be-9cc5-edf4819b8159"
+    },
+    {
+      "id": "63bd4ecc-4e89-4d78-9844-d551cafd1e8e",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "skillId": "722706e3-a7b6-406d-b670-2405c06eafd4"
+    },
+    {
+      "id": "25aabf1e-bff9-4fb5-94ef-3eecd680b59b",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "skillId": "11001fa7-2f27-4596-902a-414132fd6adf"
+    },
+    {
+      "id": "6ed78ec1-a521-47f2-8fae-33bc88c7e141",
+      "userId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "skillId": "23d28ebc-dd48-4789-8344-84bf7e645d85"
+    },
+    {
+      "id": "58b562ab-e809-46df-b9fd-9903fb717783",
+      "userId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "skillId": "609647ff-dab4-44ff-ae6f-bf8670a981dd"
+    },
+    {
+      "id": "a0a42cfb-6271-4ce0-bdce-dcea99ddd887",
+      "userId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "skillId": "07e000fc-0f3b-4845-9a94-a9c50daa3105"
+    },
+    {
+      "id": "16dd5cdf-a791-4c8a-acaa-2613218abc04",
+      "userId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "skillId": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f"
+    },
+    {
+      "id": "df2df54c-d2c9-4c48-83a6-adcc46edc8f2",
+      "userId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "skillId": "e6d056fc-e112-46fe-bd2d-f53efd9d18cd"
+    },
+    {
+      "id": "e5092b62-dee0-4e0a-8ed8-3f1ef48ba52e",
+      "userId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "skillId": "5773dd8b-03ff-4ad3-a437-f1bb68d3898b"
+    },
+    {
+      "id": "c7a60aa2-5681-4194-b6e3-40a2503f547d",
+      "userId": "5804d83e-4c17-4ccc-bb42-76a5edf31746",
+      "skillId": "612c5a68-9bf6-4a81-b496-f2ec03788c82"
+    },
+    {
+      "id": "e65149dd-ca1e-42f9-95f6-fb5cfc1e1fd9",
+      "userId": "5804d83e-4c17-4ccc-bb42-76a5edf31746",
+      "skillId": "150e20f5-dac2-4f41-a505-ac94218cda4e"
+    },
+    {
+      "id": "9a0482e9-0313-4312-944f-74e335f0d6dd",
+      "userId": "5804d83e-4c17-4ccc-bb42-76a5edf31746",
+      "skillId": "a5c17d2e-cd98-486e-9e94-341c74fc122f"
+    },
+    {
+      "id": "a585d867-ac7d-43e1-8d4a-7a0101f61741",
+      "userId": "7f59ac06-e656-43d0-8277-39c1b561fb42",
+      "skillId": "25868b12-8f05-4105-9b82-b193d6e22e6e"
+    },
+    {
+      "id": "d311ec22-a351-45d9-afde-00a26ea25d55",
+      "userId": "7f59ac06-e656-43d0-8277-39c1b561fb42",
+      "skillId": "48a1addb-77e5-4514-97b0-9d9205f62943"
+    },
+    {
+      "id": "9bc6eb22-2dab-4b8f-82a3-4750ce395579",
+      "userId": "7f59ac06-e656-43d0-8277-39c1b561fb42",
+      "skillId": "ead48dd3-2a49-4854-a433-883be02c0de7"
+    },
+    {
+      "id": "74658213-3434-4f50-9388-ac7b5752e00f",
+      "userId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "skillId": "56bc9fa3-31f0-4e81-840f-7e786a943914"
+    },
+    {
+      "id": "1a7900df-b812-49a4-b25c-7c0e4b6822b0",
+      "userId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "skillId": "5f5bd403-bc04-48cd-877f-528ee16fa673"
+    },
+    {
+      "id": "8441ae5e-7a8a-473b-8299-fdb0d364461b",
+      "userId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "skillId": "3180f3e3-ffd4-474f-8aa4-55f57696ebd4"
+    },
+    {
+      "id": "2ac69df4-f61f-4748-9baa-5757562a6996",
+      "userId": "65272aae-97ff-4446-8d0a-3e887fd4a344",
+      "skillId": "6e67ef3b-01e0-4742-bc02-44ee47b85353"
+    },
+    {
+      "id": "eea95421-1684-4f76-87fe-fbdc063dc8f2",
+      "userId": "65272aae-97ff-4446-8d0a-3e887fd4a344",
+      "skillId": "73bf32b3-6a0a-43d7-b61f-40c18606f51e"
+    },
+    {
+      "id": "1bbb706a-db88-4256-acca-213aa6df3fa3",
+      "userId": "65272aae-97ff-4446-8d0a-3e887fd4a344",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "3f357620-d069-46e8-963e-b0cad229bc34",
+      "userId": "6add3425-169a-487e-9201-c1360ef318b2",
+      "skillId": "97f626ec-2ef1-46b9-a773-1954ed9e14cb"
+    },
+    {
+      "id": "98f08d30-839f-42e6-bf5a-5189c4145957",
+      "userId": "6add3425-169a-487e-9201-c1360ef318b2",
+      "skillId": "f89b3135-66ec-4c7b-bc1b-5cdab46e8594"
+    },
+    {
+      "id": "2a979f43-3ecc-4f87-bb8f-e2ce2d731a95",
+      "userId": "6add3425-169a-487e-9201-c1360ef318b2",
+      "skillId": "17c4576f-dc98-416b-8fd8-38acdf9c0d9d"
+    },
+    {
+      "id": "34b01873-e808-4732-bd56-620ff3306f23",
+      "userId": "45abac1a-c35e-4249-9244-7722e3e3845d",
+      "skillId": "3180f3e3-ffd4-474f-8aa4-55f57696ebd4"
+    },
+    {
+      "id": "91fc9720-5f7e-45a4-ac9f-9e4b87cf6b48",
+      "userId": "45abac1a-c35e-4249-9244-7722e3e3845d",
+      "skillId": "8c673d71-5c4e-413d-8c69-3d212e61cebc"
+    },
+    {
+      "id": "4c56e367-8eb4-4b0b-bf87-e9e8bd4dc672",
+      "userId": "45abac1a-c35e-4249-9244-7722e3e3845d",
+      "skillId": "56bc9fa3-31f0-4e81-840f-7e786a943914"
+    },
+    {
+      "id": "447b95a7-a5f6-4924-a3e4-a856846c678b",
+      "userId": "0a09f6d8-5b20-42ae-99f5-fadd26c10a8b",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "562badbe-a1b0-48c1-9039-6502620decd7",
+      "userId": "33ab2882-7be1-4934-b771-4fbbd89fbb01",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "cb198070-6130-47b0-b014-fb8b46fc3a8e",
+      "userId": "33ab2882-7be1-4934-b771-4fbbd89fbb01",
+      "skillId": "02b04264-f4f1-4451-810c-fc3f8e3013de"
+    },
+    {
+      "id": "7df464d0-76d8-4fb5-9604-eb280bd8d3da",
+      "userId": "33ab2882-7be1-4934-b771-4fbbd89fbb01",
+      "skillId": "476204c0-236a-4fcd-8c73-126db81a7618"
+    },
+    {
+      "id": "df33c4a5-54af-4136-ab43-23bed3ca449b",
+      "userId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "skillId": "ee0e54b4-d68c-41be-9cc5-edf4819b8159"
+    },
+    {
+      "id": "4f70c3b0-5ed8-410e-bf16-7df1a6fd9b39",
+      "userId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "skillId": "722706e3-a7b6-406d-b670-2405c06eafd4"
+    },
+    {
+      "id": "8c19c924-5067-4f8d-9171-0f119a7c514f",
+      "userId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "skillId": "11001fa7-2f27-4596-902a-414132fd6adf"
+    },
+    {
+      "id": "7a654f33-c1a2-4c21-b6c2-86c320e18429",
+      "userId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "skillId": "23d28ebc-dd48-4789-8344-84bf7e645d85"
+    },
+    {
+      "id": "d0065ffc-a853-4368-899f-83c29c03c109",
+      "userId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "skillId": "609647ff-dab4-44ff-ae6f-bf8670a981dd"
+    },
+    {
+      "id": "4761b592-503b-4cdb-b47b-5e5a20b27247",
+      "userId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "skillId": "07e000fc-0f3b-4845-9a94-a9c50daa3105"
+    },
+    {
+      "id": "676c531f-4c68-4037-b160-dd6cab4e2b23",
+      "userId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "skillId": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f"
+    },
+    {
+      "id": "2dcaa7ad-a16c-4160-80f6-73e6af164670",
+      "userId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "skillId": "e6d056fc-e112-46fe-bd2d-f53efd9d18cd"
+    },
+    {
+      "id": "1712873d-5deb-45aa-9016-2e46a178a31e",
+      "userId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "skillId": "5773dd8b-03ff-4ad3-a437-f1bb68d3898b"
+    },
+    {
+      "id": "6f038ac0-3e47-4c5b-838d-a71cf0d3f04b",
+      "userId": "19c887e2-1475-4215-9c74-0d869688acf7",
+      "skillId": "612c5a68-9bf6-4a81-b496-f2ec03788c82"
+    },
+    {
+      "id": "12b374fc-570e-4479-a9b4-203201144668",
+      "userId": "19c887e2-1475-4215-9c74-0d869688acf7",
+      "skillId": "150e20f5-dac2-4f41-a505-ac94218cda4e"
+    },
+    {
+      "id": "04522067-799b-4c12-bdfc-bf1ef7181ee9",
+      "userId": "19c887e2-1475-4215-9c74-0d869688acf7",
+      "skillId": "a5c17d2e-cd98-486e-9e94-341c74fc122f"
+    },
+    {
+      "id": "8f9e26a7-2abf-42bd-9c0e-017852e9cc28",
+      "userId": "c822e360-9bf4-4eeb-9177-4702a5ed69a4",
+      "skillId": "25868b12-8f05-4105-9b82-b193d6e22e6e"
+    },
+    {
+      "id": "32155752-a25e-4100-ac3b-7b795bc8f5fd",
+      "userId": "c822e360-9bf4-4eeb-9177-4702a5ed69a4",
+      "skillId": "48a1addb-77e5-4514-97b0-9d9205f62943"
+    },
+    {
+      "id": "2620e847-831f-465e-8fdf-d9a140fe2d92",
+      "userId": "c822e360-9bf4-4eeb-9177-4702a5ed69a4",
+      "skillId": "ead48dd3-2a49-4854-a433-883be02c0de7"
+    },
+    {
+      "id": "5af2de56-ba07-4fc5-82b4-20b8f4c785ae",
+      "userId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "skillId": "56bc9fa3-31f0-4e81-840f-7e786a943914"
+    },
+    {
+      "id": "6354e71e-86a7-4ce7-b837-73a1e24816d6",
+      "userId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "skillId": "5f5bd403-bc04-48cd-877f-528ee16fa673"
+    },
+    {
+      "id": "fe70bbb9-36e7-4d2d-8355-709c49031143",
+      "userId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "skillId": "3180f3e3-ffd4-474f-8aa4-55f57696ebd4"
+    },
+    {
+      "id": "95a9cc8a-3ed9-4b62-bd26-5bc353589eb4",
+      "userId": "53d5adb4-051a-4489-b17e-a8098ef9e17d",
+      "skillId": "6e67ef3b-01e0-4742-bc02-44ee47b85353"
+    },
+    {
+      "id": "f4f3b3bf-27fe-4ec0-8945-abf1958ec047",
+      "userId": "53d5adb4-051a-4489-b17e-a8098ef9e17d",
+      "skillId": "73bf32b3-6a0a-43d7-b61f-40c18606f51e"
+    },
+    {
+      "id": "bbfd6e59-edce-4edb-a244-c3a2ea0cafc6",
+      "userId": "53d5adb4-051a-4489-b17e-a8098ef9e17d",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "9cbdd129-8357-45ef-95ab-4f60a8401f71",
+      "userId": "e702f4d5-e72d-4522-a13c-d3002e5c1027",
+      "skillId": "97f626ec-2ef1-46b9-a773-1954ed9e14cb"
+    },
+    {
+      "id": "9f6884f3-153c-4165-a35e-d724fc11908c",
+      "userId": "e702f4d5-e72d-4522-a13c-d3002e5c1027",
+      "skillId": "f89b3135-66ec-4c7b-bc1b-5cdab46e8594"
+    },
+    {
+      "id": "17a4d3e0-178f-4fde-b881-b73177e4d4f7",
+      "userId": "e702f4d5-e72d-4522-a13c-d3002e5c1027",
+      "skillId": "17c4576f-dc98-416b-8fd8-38acdf9c0d9d"
+    },
+    {
+      "id": "3403a27d-2c0e-43af-ac33-575cc50a4bec",
+      "userId": "9a8697ff-149c-4454-9f65-0f8cc9d8b082",
+      "skillId": "3180f3e3-ffd4-474f-8aa4-55f57696ebd4"
+    },
+    {
+      "id": "74c0310b-dd5a-465c-875b-5b738314bb95",
+      "userId": "9a8697ff-149c-4454-9f65-0f8cc9d8b082",
+      "skillId": "8c673d71-5c4e-413d-8c69-3d212e61cebc"
+    },
+    {
+      "id": "7a78ab2d-e4d0-40fb-9c50-867b13a1c28f",
+      "userId": "9a8697ff-149c-4454-9f65-0f8cc9d8b082",
+      "skillId": "56bc9fa3-31f0-4e81-840f-7e786a943914"
+    },
+    {
+      "id": "f0f0ed3e-e1e5-4666-b5f5-e74659e2f6e3",
+      "userId": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "8ce20b16-b22c-47b3-ad82-a3a1bcdc854e",
+      "userId": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "skillId": "02b04264-f4f1-4451-810c-fc3f8e3013de"
+    },
+    {
+      "id": "1ca86129-21ee-496f-811a-048b233fb181",
+      "userId": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "skillId": "612c5a68-9bf6-4a81-b496-f2ec03788c82"
+    }
+  ],
+  "userRequiredSkills": [
+    {
+      "id": "ccc2ce53-273e-44cb-98b1-8762f8330c85",
+      "userId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "skillId": "ee0e54b4-d68c-41be-9cc5-edf4819b8159"
+    },
+    {
+      "id": "897fff8b-865b-41a0-9a41-197995f69229",
+      "userId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "skillId": "722706e3-a7b6-406d-b670-2405c06eafd4"
+    },
+    {
+      "id": "acb7c946-805a-4f69-a6ef-c4bc92e6979c",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "32d6b218-2d32-4f41-8925-929037f7f348",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "skillId": "73bf32b3-6a0a-43d7-b61f-40c18606f51e"
+    },
+    {
+      "id": "5762bf13-b2e4-4673-bb9f-c6db7eba8fd1",
+      "userId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "skillId": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f"
+    },
+    {
+      "id": "62a8bfce-c442-4aae-8488-545b3cd6cf98",
+      "userId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "skillId": "031a56f4-4fb5-40ea-a94a-7e9ce1ccca7d"
+    },
+    {
+      "id": "9e05289a-3e87-47ad-ab99-54c93877c787",
+      "userId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "skillId": "23d28ebc-dd48-4789-8344-84bf7e645d85"
+    },
+    {
+      "id": "85df5538-53a5-4f32-9007-9d2949d2d6da",
+      "userId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "skillId": "609647ff-dab4-44ff-ae6f-bf8670a981dd"
+    },
+    {
+      "id": "5162253f-5a02-4c8f-84c9-4cddb1dc5ece",
+      "userId": "5804d83e-4c17-4ccc-bb42-76a5edf31746",
+      "skillId": "25868b12-8f05-4105-9b82-b193d6e22e6e"
+    },
+    {
+      "id": "4d25c754-02cc-4e44-8f50-a7788838715b",
+      "userId": "5804d83e-4c17-4ccc-bb42-76a5edf31746",
+      "skillId": "ead48dd3-2a49-4854-a433-883be02c0de7"
+    },
+    {
+      "id": "2473bff3-7556-41d0-8a82-845dc104da22",
+      "userId": "7f59ac06-e656-43d0-8277-39c1b561fb42",
+      "skillId": "612c5a68-9bf6-4a81-b496-f2ec03788c82"
+    },
+    {
+      "id": "2749f105-ff53-4438-96d6-134fc73afc5c",
+      "userId": "7f59ac06-e656-43d0-8277-39c1b561fb42",
+      "skillId": "a5c17d2e-cd98-486e-9e94-341c74fc122f"
+    },
+    {
+      "id": "f88585ab-5e48-4d76-afc7-a0c61aed64ed",
+      "userId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "7455ab21-7137-4ff6-a115-7ccbd22d091f",
+      "userId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "skillId": "6e67ef3b-01e0-4742-bc02-44ee47b85353"
+    },
+    {
+      "id": "977d92be-f0bf-43dd-bfd3-89c52521bebd",
+      "userId": "65272aae-97ff-4446-8d0a-3e887fd4a344",
+      "skillId": "97f626ec-2ef1-46b9-a773-1954ed9e14cb"
+    },
+    {
+      "id": "e444780d-13ac-4042-a0f4-8e45505c07a7",
+      "userId": "65272aae-97ff-4446-8d0a-3e887fd4a344",
+      "skillId": "17c4576f-dc98-416b-8fd8-38acdf9c0d9d"
+    },
+    {
+      "id": "259100ce-316a-4a65-ad10-dec1d71a6133",
+      "userId": "6add3425-169a-487e-9201-c1360ef318b2",
+      "skillId": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f"
+    },
+    {
+      "id": "f207e996-769d-43f3-aa07-d3cd53823a9f",
+      "userId": "6add3425-169a-487e-9201-c1360ef318b2",
+      "skillId": "e6d056fc-e112-46fe-bd2d-f53efd9d18cd"
+    },
+    {
+      "id": "9bb54767-6360-48d9-bd1b-a492f608dfa1",
+      "userId": "45abac1a-c35e-4249-9244-7722e3e3845d",
+      "skillId": "e6d056fc-e112-46fe-bd2d-f53efd9d18cd"
+    },
+    {
+      "id": "19c35014-57b0-4587-b67e-64fc1b9a449e",
+      "userId": "45abac1a-c35e-4249-9244-7722e3e3845d",
+      "skillId": "5773dd8b-03ff-4ad3-a437-f1bb68d3898b"
+    },
+    {
+      "id": "313f84d7-9195-4f56-b98b-dd957eb8894c",
+      "userId": "0a09f6d8-5b20-42ae-99f5-fadd26c10a8b",
+      "skillId": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f"
+    },
+    {
+      "id": "70a217a4-5e6f-4001-ad87-326e63abbd5a",
+      "userId": "33ab2882-7be1-4934-b771-4fbbd89fbb01",
+      "skillId": "ee0e54b4-d68c-41be-9cc5-edf4819b8159"
+    },
+    {
+      "id": "83319215-ea1a-42e9-b08b-4390836aa15c",
+      "userId": "33ab2882-7be1-4934-b771-4fbbd89fbb01",
+      "skillId": "722706e3-a7b6-406d-b670-2405c06eafd4"
+    },
+    {
+      "id": "e66fe489-58ac-40a3-b3fd-2f7e3b05d785",
+      "userId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "540ee1fd-d9f8-493f-8657-7c4d41922d02",
+      "userId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "skillId": "73bf32b3-6a0a-43d7-b61f-40c18606f51e"
+    },
+    {
+      "id": "26d92455-e67f-485c-82b4-130d19c762b8",
+      "userId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "skillId": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f"
+    },
+    {
+      "id": "5f4a0111-819b-40e6-8532-065d239d050f",
+      "userId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "skillId": "031a56f4-4fb5-40ea-a94a-7e9ce1ccca7d"
+    },
+    {
+      "id": "d03f47f6-8011-465a-a89a-4a145134a5a5",
+      "userId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "skillId": "23d28ebc-dd48-4789-8344-84bf7e645d85"
+    },
+    {
+      "id": "b173c569-ad9c-403b-9217-9048f374ebb5",
+      "userId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "skillId": "609647ff-dab4-44ff-ae6f-bf8670a981dd"
+    },
+    {
+      "id": "7b2ce94c-ff1d-4ebb-949c-7f86a6d509f1",
+      "userId": "19c887e2-1475-4215-9c74-0d869688acf7",
+      "skillId": "25868b12-8f05-4105-9b82-b193d6e22e6e"
+    },
+    {
+      "id": "c89cee53-4750-48cd-b12c-538ccf739616",
+      "userId": "19c887e2-1475-4215-9c74-0d869688acf7",
+      "skillId": "ead48dd3-2a49-4854-a433-883be02c0de7"
+    },
+    {
+      "id": "2113f1e6-1467-4eac-840c-d54deeb7a5d5",
+      "userId": "c822e360-9bf4-4eeb-9177-4702a5ed69a4",
+      "skillId": "612c5a68-9bf6-4a81-b496-f2ec03788c82"
+    },
+    {
+      "id": "6876ce51-6db6-4f72-914c-d749ccd93c3c",
+      "userId": "c822e360-9bf4-4eeb-9177-4702a5ed69a4",
+      "skillId": "a5c17d2e-cd98-486e-9e94-341c74fc122f"
+    },
+    {
+      "id": "6964946c-725d-42f4-b7ee-d6b8962f563a",
+      "userId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "skillId": "daeacf87-5e21-4225-9e82-4ab5d0693f52"
+    },
+    {
+      "id": "cf9bda08-8c19-44f3-8415-b7160c7c21b1",
+      "userId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "skillId": "6e67ef3b-01e0-4742-bc02-44ee47b85353"
+    },
+    {
+      "id": "e3bbadce-cc08-4fcb-be67-a146b26c0087",
+      "userId": "53d5adb4-051a-4489-b17e-a8098ef9e17d",
+      "skillId": "97f626ec-2ef1-46b9-a773-1954ed9e14cb"
+    },
+    {
+      "id": "a2b6e63f-080c-4fb2-bfd6-6a5e0f6e38b8",
+      "userId": "53d5adb4-051a-4489-b17e-a8098ef9e17d",
+      "skillId": "17c4576f-dc98-416b-8fd8-38acdf9c0d9d"
+    },
+    {
+      "id": "fc7bba1d-f7bb-4257-abb6-59f2fbe803cb",
+      "userId": "e702f4d5-e72d-4522-a13c-d3002e5c1027",
+      "skillId": "c071b2c6-ec51-4de4-b826-20f48d9a3c6f"
+    },
+    {
+      "id": "574cff5e-f97c-4d68-ad88-d36ef0e30ada",
+      "userId": "e702f4d5-e72d-4522-a13c-d3002e5c1027",
+      "skillId": "e6d056fc-e112-46fe-bd2d-f53efd9d18cd"
+    },
+    {
+      "id": "cc6fc782-d62e-4c1a-899f-5b91d05f469d",
+      "userId": "9a8697ff-149c-4454-9f65-0f8cc9d8b082",
+      "skillId": "e6d056fc-e112-46fe-bd2d-f53efd9d18cd"
+    },
+    {
+      "id": "396dd690-d4e1-4841-95c5-bba2657b6061",
+      "userId": "9a8697ff-149c-4454-9f65-0f8cc9d8b082",
+      "skillId": "5773dd8b-03ff-4ad3-a437-f1bb68d3898b"
+    },
+    {
+      "id": "5d21e1a9-8429-49b1-844d-22d83052f6e5",
+      "userId": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "skillId": "ee0e54b4-d68c-41be-9cc5-edf4819b8159"
+    },
+    {
+      "id": "396725ba-010b-4a24-9ad9-6f775cb03a33",
+      "userId": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "skillId": "722706e3-a7b6-406d-b670-2405c06eafd4"
+    },
+    {
+      "id": "6bd35ab2-6585-4826-a489-435cf8514b97",
+      "userId": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "skillId": "73bf32b3-6a0a-43d7-b61f-40c18606f51e"
+    }
+  ],
+  "exchangeRequests": [
+    {
+      "id": "1e12dece-b73a-42b5-aab1-0ae5f56eeb87",
+      "senderId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "receiverId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "offeredSkillName": "Mathematics",
+      "requiredSkillName": "UI/UX Design",
+      "message": "Hi Priya! Could you help me with Figma wireframing in exchange for Calculus tutoring?",
+      "status": "COMPLETED",
+      "createdAt": "2026-09-25T06:23:47.204Z",
+      "updatedAt": "2026-09-25T06:23:47.208Z"
+    },
+    {
+      "id": "a53eb48a-f289-4f8e-89a2-6b7769ea7d68",
+      "senderId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "receiverId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "offeredSkillName": "Java",
+      "requiredSkillName": "React",
+      "message": "Hey Sneha, let’s exchange Java fundamentals for React hooks!",
+      "status": "COMPLETED",
+      "createdAt": "2026-09-25T06:23:47.211Z",
+      "updatedAt": "2026-09-25T06:23:47.216Z"
+    },
+    {
+      "id": "19c7fa12-7912-4901-bef0-449c1ab9cdb0",
+      "senderId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "receiverId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "offeredSkillName": "Python",
+      "requiredSkillName": "UI/UX Design",
+      "message": "Hi Priya, I can help you learn Python and I'd love to learn UI/UX Design!",
+      "status": "COMPLETED",
+      "createdAt": "2026-09-25T06:46:57.860Z",
+      "updatedAt": "2026-09-25T06:57:57.051Z"
+    },
+    {
+      "id": "74070945-77ce-48a9-ab92-c012af10c4bf",
+      "senderId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "receiverId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "offeredSkillName": "Mathematics",
+      "requiredSkillName": "UI/UX Design",
+      "message": "Hi Priya! Could you help me with Figma wireframing in exchange for Calculus tutoring?",
+      "status": "COMPLETED",
+      "createdAt": "2026-09-25T08:11:59.889Z",
+      "updatedAt": "2026-09-25T08:11:59.893Z"
+    },
+    {
+      "id": "45664a61-b405-442c-a344-9f84564ff070",
+      "senderId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "receiverId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "offeredSkillName": "Java",
+      "requiredSkillName": "React",
+      "message": "Hey Sneha, let’s exchange Java fundamentals for React hooks!",
+      "status": "COMPLETED",
+      "createdAt": "2026-09-25T08:11:59.898Z",
+      "updatedAt": "2026-09-25T08:11:59.901Z"
+    },
+    {
+      "id": "492bddd6-e3f1-43b5-ae24-31182305b3e2",
+      "senderId": "682163f2-c7bd-4d20-99d4-716da00e87b1",
+      "receiverId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "offeredSkillName": "Python",
+      "requiredSkillName": "UI/UX Design",
+      "message": "Hi Priya, I can help you learn Python and I'd love to learn UI/UX Design!",
+      "status": "PENDING",
+      "createdAt": "2026-09-25T08:23:51.078Z",
+      "updatedAt": "2026-09-25T08:23:51.078Z"
+    }
+  ],
+  "exchanges": [
+    {
+      "id": "7741812b-30e5-4742-848f-c6bfe9fc2bba",
+      "requestId": "1e12dece-b73a-42b5-aab1-0ae5f56eeb87",
+      "senderId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "receiverId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "offeredSkillName": "Mathematics",
+      "requiredSkillName": "UI/UX Design",
+      "status": "COMPLETED",
+      "startedAt": "2026-09-25T06:23:47.207Z",
+      "completedAt": "2026-09-25T06:23:47.208Z"
+    },
+    {
+      "id": "8ae6213e-9715-4e3c-bf67-e0b3558d4d2d",
+      "requestId": "a53eb48a-f289-4f8e-89a2-6b7769ea7d68",
+      "senderId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "receiverId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "offeredSkillName": "Java",
+      "requiredSkillName": "React",
+      "status": "COMPLETED",
+      "startedAt": "2026-09-25T06:23:47.214Z",
+      "completedAt": "2026-09-25T06:23:47.216Z"
+    },
+    {
+      "id": "a979a5d1-6b0d-4692-b1b7-c2c49acf9b06",
+      "requestId": "19c7fa12-7912-4901-bef0-449c1ab9cdb0",
+      "senderId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "receiverId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "offeredSkillName": "Python",
+      "requiredSkillName": "UI/UX Design",
+      "status": "COMPLETED",
+      "startedAt": "2026-09-25T06:56:49.149Z",
+      "completedAt": "2026-09-25T06:57:57.051Z"
+    },
+    {
+      "id": "ad09e426-fd6c-407a-8cf3-d8bf0d19c4d1",
+      "requestId": "74070945-77ce-48a9-ab92-c012af10c4bf",
+      "senderId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "receiverId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "offeredSkillName": "Mathematics",
+      "requiredSkillName": "UI/UX Design",
+      "status": "COMPLETED",
+      "startedAt": "2026-09-25T08:11:59.892Z",
+      "completedAt": "2026-09-25T08:11:59.893Z"
+    },
+    {
+      "id": "f050ec45-150f-463e-88fd-f87e04bea1d8",
+      "requestId": "45664a61-b405-442c-a344-9f84564ff070",
+      "senderId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "receiverId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "offeredSkillName": "Java",
+      "requiredSkillName": "React",
+      "status": "COMPLETED",
+      "startedAt": "2026-09-25T08:11:59.900Z",
+      "completedAt": "2026-09-25T08:11:59.901Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "4cee9629-c5b9-4b4e-88e1-df3431ee6c54",
+      "exchangeId": "7741812b-30e5-4742-848f-c6bfe9fc2bba",
+      "reviewerId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "revieweeId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "rating": 5,
+      "feedback": "Priya is an incredible mentor! She patiently explained Figma auto-layout and design hierarchy. Highly recommend exchanging skills with her!",
+      "createdAt": "2026-09-25T06:23:47.209Z"
+    },
+    {
+      "id": "d8549810-9485-43e7-9113-b0e27f0a7c72",
+      "exchangeId": "7741812b-30e5-4742-848f-c6bfe9fc2bba",
+      "reviewerId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "revieweeId": "a1181ab5-fb6e-48bd-98a3-a1a51e6d71df",
+      "rating": 5,
+      "feedback": "Vikram explained vector calculus concepts so clearly with intuitive visual analogies. Super helpful!",
+      "createdAt": "2026-09-25T06:23:47.209Z"
+    },
+    {
+      "id": "cc88b87f-6307-4c95-95f7-a9fc134456b1",
+      "exchangeId": "8ae6213e-9715-4e3c-bf67-e0b3558d4d2d",
+      "reviewerId": "ec2f4f2d-1755-4731-8012-3de4a80d14cb",
+      "revieweeId": "a1915b6c-dec1-4cc5-b5f2-8745191f6268",
+      "rating": 5,
+      "feedback": "Sneha knows React inside out. She helped me build my first component library and state management structure in just two sessions!",
+      "createdAt": "2026-09-25T06:23:47.218Z"
+    },
+    {
+      "id": "55f7fa37-9098-4f8b-b0e2-09f8a64b3507",
+      "exchangeId": "a979a5d1-6b0d-4692-b1b7-c2c49acf9b06",
+      "reviewerId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "revieweeId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "rating": 5,
+      "feedback": "Priya is an outstanding UI/UX mentor! She taught me Figma auto-layout and typography hierarchy, and I helped her master Python data scripting.",
+      "createdAt": "2026-09-25T06:58:07.687Z"
+    },
+    {
+      "id": "e52eda14-5f06-4b80-9ef8-a58e7fd9c245",
+      "exchangeId": "ad09e426-fd6c-407a-8cf3-d8bf0d19c4d1",
+      "reviewerId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "revieweeId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "rating": 5,
+      "feedback": "Priya is an incredible mentor! She patiently explained Figma auto-layout and design hierarchy. Highly recommend exchanging skills with her!",
+      "createdAt": "2026-09-25T08:11:59.896Z"
+    },
+    {
+      "id": "aa048637-69f8-4ba7-9bb6-7ac7bc4893e5",
+      "exchangeId": "ad09e426-fd6c-407a-8cf3-d8bf0d19c4d1",
+      "reviewerId": "66e39a7b-f88e-459a-b1bb-cddf869ace07",
+      "revieweeId": "b31f358f-c896-4150-aca1-ba8ae82721aa",
+      "rating": 5,
+      "feedback": "Vikram explained vector calculus concepts so clearly with intuitive visual analogies. Super helpful!",
+      "createdAt": "2026-09-25T08:11:59.896Z"
+    },
+    {
+      "id": "4c862a26-f8a1-4354-bb15-63895e78dc07",
+      "exchangeId": "f050ec45-150f-463e-88fd-f87e04bea1d8",
+      "reviewerId": "662b2327-1ea0-4a8f-88cb-57f233138e3b",
+      "revieweeId": "aed090bc-e970-48aa-94e1-24611e696227",
+      "rating": 5,
+      "feedback": "Sneha knows React inside out. She helped me build my first component library and state management structure in just two sessions!",
+      "createdAt": "2026-09-25T08:11:59.903Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "af3d875e-519b-4c57-91fc-621bae396936",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "message": "Arun Kumar sent you a skill exchange request (Python ↔ UI/UX Design).",
+      "type": "REQUEST_RECEIVED",
+      "link": "/requests",
+      "isRead": false,
+      "createdAt": "2026-09-25T06:46:57.866Z"
+    },
+    {
+      "id": "6e7fc91c-b393-4209-a83b-8ccc814e2659",
+      "userId": "f261ebc1-f18c-4581-8136-3ee57c41b3bb",
+      "message": "Priya Sharma accepted your skill exchange request! You can now start learning.",
+      "type": "REQUEST_ACCEPTED",
+      "link": "/exchanges",
+      "isRead": true,
+      "createdAt": "2026-09-25T06:56:49.149Z"
+    },
+    {
+      "id": "49dd21fe-5e7a-4bc9-941b-f1744f320522",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "message": "Arun Kumar marked your skill exchange as completed! Please share your rating and review.",
+      "type": "EXCHANGE_COMPLETED",
+      "link": "/exchanges",
+      "isRead": false,
+      "createdAt": "2026-09-25T06:57:57.061Z"
+    },
+    {
+      "id": "1ef3157e-090d-457e-b177-917f7c8a4681",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "message": "Arun Kumar gave you a 5★ review: \"Priya is an outstanding UI/UX mentor! She taught m...\"",
+      "type": "REVIEW_RECEIVED",
+      "link": "/students/ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "isRead": false,
+      "createdAt": "2026-09-25T06:58:07.688Z"
+    },
+    {
+      "id": "01b97111-2868-4ab0-8a71-119078430fbc",
+      "userId": "ad9d6d7f-82c8-4815-aee8-995268ac5b9b",
+      "message": "AFIC sent you a skill exchange request (Python ↔ UI/UX Design).",
+      "type": "REQUEST_RECEIVED",
+      "link": "/requests",
+      "isRead": false,
+      "createdAt": "2026-09-25T08:23:51.082Z"
+    }
+  ]
+}
